@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MakeYourTrip/static/css/main.58f3ef7d.css",
+    "main.js": "/MakeYourTrip/static/js/main.d433d86f.js",
+    "static/media/2.agra.jpg": "/MakeYourTrip/static/media/2.agra.c69ef8e6e639c4d89eca.jpg",
+    "static/media/3.goa.jpg": "/MakeYourTrip/static/media/3.goa.3b4279fb0ccabd37c5f3.jpg",
+    "static/media/4.manali.jpg": "/MakeYourTrip/static/media/4.manali.1a0579c4bed2f074396a.jpg",
+    "static/media/1.sikkim.jpg": "/MakeYourTrip/static/media/1.sikkim.3dd3092784b8f6c8cd24.jpg",
+    "static/media/coorg.jpg": "/MakeYourTrip/static/media/coorg.507fa494b9204deeea40.jpg",
+    "static/media/1.kerala.jpg": "/MakeYourTrip/static/media/1.kerala.667b790289032d05501c.jpg",
+    "static/media/2.kerala.jpg": "/MakeYourTrip/static/media/2.kerala.7fd8eda69050d01db17e.jpg",
+    "static/media/1.jpg": "/MakeYourTrip/static/media/1.509d4d795248ac9962f3.jpg",
+    "static/media/12.jpg": "/MakeYourTrip/static/media/12.257c5311e1cae5638aad.jpg",
+    "static/media/2.manali.jpg": "/MakeYourTrip/static/media/2.manali.3849b81fba5bb8119178.jpg",
+    "static/media/1.goa.jpg": "/MakeYourTrip/static/media/1.goa.0bc51488245c6c0b54ad.jpg",
+    "static/media/1.agra.jpg": "/MakeYourTrip/static/media/1.agra.dc42546af8c07a1773c5.jpg",
+    "static/media/6.jpg": "/MakeYourTrip/static/media/6.c405c8228d51cdef5d0f.jpg",
+    "static/media/night.jpg": "/MakeYourTrip/static/media/night.ac6d287d5d0014553b87.jpg",
+    "index.html": "/MakeYourTrip/index.html",
+    "main.58f3ef7d.css.map": "/MakeYourTrip/static/css/main.58f3ef7d.css.map",
+    "main.d433d86f.js.map": "/MakeYourTrip/static/js/main.d433d86f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58f3ef7d.css",
+    "static/js/main.d433d86f.js"
+  ]
+}
